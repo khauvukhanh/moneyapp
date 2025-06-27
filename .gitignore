@@ -17,6 +17,7 @@ yarn-error.log*
 # Android
 android/app/build/
 android/build/
+android/.gradle/
 *.keystore
 *.jks
 
